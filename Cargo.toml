@@ -1,0 +1,7 @@
+[package]
+name = "get_divisors"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+elr_primes = "0.1.2"
